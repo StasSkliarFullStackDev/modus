@@ -29,7 +29,7 @@
     "@progress/kendo-angular-l10n": "11.6.0",
     "@progress/kendo-angular-sortable": "^11.6.0",
     "@progress/kendo-licensing": "^1.0.2",
-    "@progress/kendo-theme-default": "^6.2.0",
+    "@progress/kendo-theme-default": "^6.7.0",
     "bootstrap": "^5.2.3",
     "file-saver": "^2.0.5",
     "javascript-time-ago": "^2.5.9",
